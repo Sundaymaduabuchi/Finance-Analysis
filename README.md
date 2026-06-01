@@ -143,10 +143,12 @@ Extracted business intelligence from analytical patterns.
 ## 📸 Dashboard Preview
 
 ### Overview Analysis Dashboard
-_Add screenshot here_
+<img width="1918" height="961" alt="Finsight Overview page" src="https://github.com/user-attachments/assets/c47ccc1e-c6d8-4fc1-9192-cb41203bb65b" />
+
 
 ### Transactions Dashboard
-_Add screenshot here_
+<img width="1919" height="949" alt="Finsight Transaction Page" src="https://github.com/user-attachments/assets/77c73afe-f9ce-45b1-b970-44f34c49d32a" />
+
 
 
 ## 🚀 How to Use
