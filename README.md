@@ -2,7 +2,6 @@
 
 An interactive **Power BI Finance Analytics Dashboard** designed to provide actionable insights into financial transactions, customer behavior, and business performance through dynamic visualizations and data-driven storytelling.
 
----
 
 ## 📌 Project Overview
 
@@ -17,7 +16,6 @@ The dashboard helps stakeholders monitor:
 - Revenue and fee insights
 - Detailed transaction-level drill-down analysis
 
----
 
 ## 🎯 Project Objectives
 
@@ -30,7 +28,6 @@ The primary goals of this project were to:
 - Provide executive-level financial insights
 - Build an interactive reporting solution for decision-making
 
----
 
 ## 🛠 Tools & Technologies Used
 
@@ -40,7 +37,6 @@ The primary goals of this project were to:
 - **Data Modeling**
 - **Interactive Dashboard Design**
 
----
 
 ## 📂 Dashboard Pages
 
@@ -60,7 +56,6 @@ Provides high-level business insights including:
 - Gender-based Analysis
 - Transaction Type Performance
 
----
 
 ### 2️⃣ Transactions Page
 
@@ -75,7 +70,6 @@ A detailed transaction-level report for operational analysis featuring:
 - Geographic transaction details
 - Amount and fee analysis
 
----
 
 ## ⚙️ Features
 
@@ -101,7 +95,6 @@ Real-time visibility into:
 - Fees Generated
 - Performance comparison vs previous year
 
----
 
 ## 📈 Key Insights Delivered
 
@@ -114,7 +107,6 @@ This dashboard enables stakeholders to:
 ✔ Evaluate transaction type profitability  
 ✔ Support data-driven financial decisions
 
----
 
 ## 🔄 Project Workflow
 
@@ -147,7 +139,6 @@ Built interactive visualizations and navigation structure.
 ### 6. Insight Generation
 Extracted business intelligence from analytical patterns.
 
----
 
 ## 📸 Dashboard Preview
 
@@ -157,7 +148,6 @@ _Add screenshot here_
 ### Transactions Dashboard
 _Add screenshot here_
 
----
 
 ## 🚀 How to Use
 
@@ -167,7 +157,6 @@ _Add screenshot here_
 4. Navigate between dashboard pages
 5. Explore transaction insights dynamically
 
----
 
 ## 📊 Business Value
 
@@ -178,7 +167,6 @@ This dashboard demonstrates how financial institutions can leverage Business Int
 - Optimize customer segmentation strategies
 - Support strategic decision-making
 
----
 
 ## 🧠 Skills Demonstrated
 
@@ -192,7 +180,6 @@ This project showcases expertise in:
 - Business Intelligence Analysis
 - Financial Data Visualization
 
----
 
 ## 👨‍💻 Author
 
@@ -204,13 +191,10 @@ This project showcases expertise in:
 🔗 LinkedIn: https://www.linkedin.com/in/sundaymaduabuchi/  
 💻 GitHub: https://github.com/Sundaymaduabuchi
 
----
 
 ## ⭐ If you found this project valuable
 
 Please consider giving this repository a **star ⭐**
-
----
 
 ## 📜 License
 
