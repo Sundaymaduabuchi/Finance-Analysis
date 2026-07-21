@@ -5,7 +5,7 @@ An interactive **Power BI Finance Analytics Dashboard** designed to provide acti
 
 ## 📌 Project Overview
 
-**FinSight** is a Business Intelligence solution built using **Power BI** to analyze financial transaction data and transform raw datasets into meaningful business insights.
+<p> **A Power BI** business intelligence solution analyzing financial transaction data across two report pages — an executive overview and a transaction-level drill-down. Built a full data model with custom DAX measures for revenue, average transaction value, and year-over-year comparisons, and used Power Query to clean and standardize raw transaction data. Surfaces insights on customer segmentation, transaction success/failure rates, and regional distribution to support financial decision-making.</p>
 
 The dashboard helps stakeholders monitor:
 
